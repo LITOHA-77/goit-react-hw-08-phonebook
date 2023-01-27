@@ -1,0 +1,11 @@
+.name {
+  display: block;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+.number {
+  font-size: 18px;
+  font-weight: 500;
+  font-style: italic;
+}

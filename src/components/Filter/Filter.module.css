@@ -1,0 +1,25 @@
+.title {
+  width: 450px;
+  margin-right: auto;
+  margin-left: auto;
+  color: #ddc955;
+  text-align: center;
+  padding: 20px;
+}
+.text {
+  font-weight: bold;
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.value {
+    width: 250px;
+      height: 26px;
+      padding: 6px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      border-radius: 10px;
+      outline: none;
+      font-size: 16px;
+}

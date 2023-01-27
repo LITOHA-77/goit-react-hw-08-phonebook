@@ -1,0 +1,22 @@
+.title {
+  margin-top: 40px;
+  width: 450px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+  font-weight: 500;
+  font-size: 45px;
+  color: rgb(12, 129, 231);
+  text-align: center;
+  border-bottom: 5px solid #ddc955;
+  
+}
+.contactTitle {
+  width: 450px;
+  margin-right: auto;
+  margin-left: auto;
+  color: rgb(12, 129, 231);
+  text-align: center;
+  padding: 20px;
+  border-bottom: 5px solid #ddc955;
+}

@@ -1,0 +1,19 @@
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-size: 21px;
+  font-style: italic;
+  font-weight: 500;
+  color: aliceblue;
+}
+.activeLink {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-size: 21px;
+  font-style: italic;
+  font-weight: 500;
+  color: #ddc955;
+  outline: none;
+}
